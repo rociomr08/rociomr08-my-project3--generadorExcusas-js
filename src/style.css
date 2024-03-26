@@ -1,1 +1,12 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+body{
+    background-color: fuchsia;
+}
+#contenido{
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    margin-top: 150px;
+}
+#contenido h1{
+    color: rgb(33, 15, 239);
+}
